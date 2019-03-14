@@ -27,3 +27,15 @@ int main()
 	
 	return 0;
 }
+
+
+1,2,3,4
+
+10=sum
+-16
+
+
+1,2,3
+
+6=sum
+-no of elemets * max
